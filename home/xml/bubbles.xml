@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<featurebubbles>
+
+<bubble size="large">
+<name>Arthur</name>
+<image>home/images/bubbles/large/arthur-smiling-blue.jpg</image>
+<url>/arthur/</url>
+</bubble>
+
+<bubble size="small">
+<name>The Cat in the Hat</name>
+<image>home/images/bubbles/small/catinthehat-cat-green.jpg</image>
+<url>/catinthehat/</url>
+</bubble>
+
+<bubble size="large">
+<name>Super Why</name>
+<image>home/images/bubbles/large/superwhy-woofster-blue.jpg</image>
+<url>/superwhy/</url>
+</bubble>
+
+</featurebubbles>
+

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<shows>
+
+<show>
+<name>THOMAS &amp; FRIENDS </name>
+<url>/thomasandfriends/</url>
+<imageurl>/home/images/shows/thomasandfriends.gif</imageurl>
+<audiourl>/audio/k_s_thomas.swf</audiourl>
+</show>
+
+<show>
+<name>THE CAT IN THE HAT</name>
+<url>/catinthehat</url>
+<imageurl>/home/images/shows/catinthehat.gif</imageurl>
+<audiourl>/audio/k_s_catInTheHat.swf</audiourl>
+</show>
+
+<show>
+<name>SESAME STREET</name>
+<url>/sesame</url>
+<imageurl>/home/images/shows/sesame.gif</imageurl>
+<audiourl>/audio/k_s_sesamestreet.swf</audiourl>
+</show>
+
+<show>
+<name>WILD KRATTS</name>
+<url>/wildkratts</url>
+<imageurl>/home/images/shows/wildkratts.gif</imageurl>
+<audiourl>/audio/g_s_wildkratts.swf</audiourl>
+</show>
+
+<show>
+<name>DINOSAUR TRAIN</name>
+<url>/dinosaurtrain/</url>
+<imageurl>/home/images/shows/dinosaurtrain.gif</imageurl>
+<audiourl>/audio/k_s_dinoTrain.swf</audiourl>
+</show>
+    
+<show>
+<name>CURIOUS GEORGE</name>
+<url>/curiousgeorge</url>
+<imageurl>/home/images/shows/curiousgeorge.gif</imageurl>
+<audiourl>/audio/k_s_curiousGeorge.swf</audiourl>
+</show>
+
+<show>
+<name>MARTHA SPEAKS</name>
+<url>/martha</url>
+<imageurl>/home/images/shows/martha.gif</imageurl>
+<audiourl>/audio/kg_s_marthaSpeaks.swf</audiourl>
+</show>
+
+<show>
+<name>DANIEL TIGER&#39;S NEIGHBORHOOD </name>
+<url>/daniel</url>
+<imageurl>/home/images/shows/daniel.gif</imageurl>
+<audiourl>/audio/k_s_daniel.swf</audiourl>
+</show>
+
+<show>
+<name>SID THE SCIENCE KID</name>
+<url>/sid</url>
+<imageurl>/home/images/shows/sid.gif</imageurl>
+<audiourl>/audio/k_s_sidthesciencekid.swf</audiourl>
+</show>
+  
+<show>
+<name>SUPER WHY!</name>
+<url>/superwhy</url>
+<imageurl>/home/images/shows/superwhy.gif</imageurl>
+<audiourl>/audio/k_s_superwhy.swf</audiourl>
+</show>
+
+<show>
+<name>ARTHUR</name>
+<url>/arthur</url>
+<imageurl>/home/images/shows/arthur.gif</imageurl>
+<audiourl>/audio/kg_s_arthur.swf</audiourl>
+</show>
+
+<show>
+<name>WORDGIRL</name>
+<url>/wordgirl</url>
+<imageurl>/home/images/shows/wordgirl.gif</imageurl>
+<audiourl>/audio/kg_s_wordgirl.swf</audiourl>
+</show>
+  
+<show>
+<name>THE ELECTRIC COMPANY</name>
+<url>/electriccompany</url>
+<imageurl>/home/images/shows/electriccompany.gif</imageurl>
+<audiourl>/audio/kg_s_electriccompany.swf</audiourl>
+</show>
+
+<show>
+<name>WORDWORLD</name>
+<url>/wordworld</url>
+<imageurl>/home/images/shows/wordworld.gif</imageurl>
+<audiourl>/audio/k_s_wordworld.swf</audiourl>
+</show>
+
+<show>
+<name>FETCH! WITH RUFF RUFFMAN</name>
+<url>/fetch</url>
+<imageurl>/home/images/shows/fetch.gif</imageurl>
+<audiourl>/audio/kg_s_fetch.swf</audiourl>
+</show>
+  
+<show>
+<name>CYBERCHASE</name>
+<url>/cyberchase</url>
+<imageurl>/home/images/shows/cyberchase.gif</imageurl>
+<audiourl>/audio/kg_s_cyberchase.swf</audiourl>
+</show>
+  
+<show>
+<name>MISTER ROGERS' NEIGHBORHOOD</name>
+<url>/rogers</url>
+<imageurl>/home/images/shows/rogers.gif</imageurl>
+<audiourl>/audio/k_s_misterRodgersNeighborhood.swf</audiourl>
+</show>
+
+<show>
+<name>CLIFFORD THE BIG RED DOG</name>
+<url>/clifford</url>
+<imageurl>/home/images/shows/clifford.gif</imageurl>
+<audiourl>/audio/k_s_clifford.swf</audiourl>
+</show>
+    
+<show>
+<name>BARNEY AND FRIENDS</name>
+<url>/barney</url>
+<imageurl>/home/images/shows/barney.gif</imageurl>
+<audiourl>/audio/k_s_barney.swf</audiourl>
+</show>
+  
+<show>
+<name>CAILLOU</name>
+<url>/caillou</url>
+<imageurl>/home/images/shows/caillou.gif</imageurl>
+<audiourl>/audio/k_s_caillou.swf</audiourl>
+</show>
+
+<show>
+<name>MAMA MIRABELLE'S HOME MOVIES</name>
+<url>/mamamirabelle</url>
+<imageurl>/home/images/shows/mamamirabelle.gif</imageurl>
+<audiourl>/audio/k_s_mammaMirabelle.swf</audiourl>
+</show>
+
+<show>
+<name>BETWEEN THE LIONS</name>
+<url>/lions</url>
+<imageurl>/home/images/shows/lions.gif</imageurl>
+<audiourl>/audio/kg_s_betweenthelions.swf</audiourl>
+</show>
+
+<show>
+<name>MAYA &amp; MIGUEL</name>
+<url>/mayaandmiguel</url>
+<imageurl>/home/images/shows/mayaandmiguel.gif</imageurl>
+<audiourl>/audio/kg_s_mayaMiguel.swf</audiourl>
+</show>
+  
+<show>
+<name>PEG + CAT</name>
+<url>/peg</url>
+<imageurl>/home/images/shows/peg.gif</imageurl>
+<audiourl>/audio/k_s_peg.swf</audiourl>
+</show>
+
+</shows>
